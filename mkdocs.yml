@@ -1,10 +1,10 @@
-site_name: Hướng dẫn Xpenology toàn tập
+site_name: Hướng dẫn sử dụng cty Trung Dũng
 theme:
   name: material
   language: vi
   palette:
     scheme: slate
-repo_url: https://github.com/luutuananh/xpenology
+repo_url: https://github.com/quocvuong1105/Wiki-TrungDung
 plugins:
   - git-revision-date-localized:
       enable_creation_date: false
